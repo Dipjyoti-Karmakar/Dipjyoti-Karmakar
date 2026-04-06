@@ -7,7 +7,9 @@
 
 > 💡 **About Me**
 >
-> Entry-level Data and Business Analyst with hands-on experience across the full analytics workflow: data extraction, cleaning, statistical testing, feature engineering, and KPI dashboard development. Ranked **#1 Top Performer** in the Data Analytics with GenAI batch at Career247. I work in Python, SQL, and Power BI, and I focus on making analysis useful to the people who have to act on it.
+> Ranked **#1 Top Performer** in the Data Analytics with GenAI batch at Career247. I build end-to-end analytics solutions: from normalized SQL schemas and Python pipelines to live web apps powered by the Gemini and GitHub APIs. My projects cover $11.96B+ in modeled revenue across six domains, and every finding I deliver connects directly to a business decision someone has to make.
+>
+> Currently pursuing an MBA at Bodoland University while working in Python, SQL, and Power BI.
 
 ---
 
@@ -20,7 +22,7 @@
 | Batch ranking - Career247 Data Analytics with GenAI | **#1 Top Performer** |
 | Repeat customers identified (coffee analytics) | 545 |
 | Flux app commits shipped | 56 |
-| Single-file web apps built | 2 (Flux · Dossier.ai) |
+| Single-file web apps built | 2 (Flux · Dossier) |
 | Chart.js visualizations in Dossier.ai | 5 live charts |
 | SQL records managed (retail DB) | 400 orders · 50 products · 30 customers |
 | Stock units under automated inventory alert | 5,102 units across 5 categories |
@@ -36,25 +38,21 @@
 `Power BI` · `DAX` · `Power Query` · `Tableau` · `Matplotlib` · `Seaborn` · `Canvas 2D API` · `KPI Dashboards` · `Trend Analysis` · `Ad-hoc Reporting`
 
 ### 📐 Statistical & Analytical Methods
-`EDA` · `Hypothesis Testing` · `Welch's T-Test` · `One-Way ANOVA` · `Statistical Modeling` · `Customer Segmentation` · `CLV Engineering` · `Risk Classification`
+`EDA` · `Hypothesis Testing` · `Welch's T-Test` · `One-Way ANOVA` · `Statistical Modeling` · `Customer Segmentation` · `CLV Engineering` · `Risk Classification` · `R` · `scikit-learn`
 
 ### ⚙️ Cloud, Web & Integration
 `Firebase Auth` · `Cloud Firestore` · `IndexedDB` · `Service Workers` · `PWA` · `HTML5` · `CSS3` · `Vanilla JavaScript (ES2020)` · `SheetJS` · `Google Gemini API` · `GitHub REST API` · `Chart.js` · `html2canvas` · `Git` · `GenAI for Analytics`
 
 ### 📋 Business & Productivity Tools
-`Microsoft Excel` · `VLOOKUP` · `INDEX-MATCH` · `Pivot Tables` · `Power Pivot` · `R` · `scikit-learn`
+`Microsoft Excel` · `VLOOKUP` · `INDEX-MATCH` · `Pivot Tables` · `Power Pivot`
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-| Certification | Issuer | Date | Credential |
-|---|---|---|---|
-| Data Analytics with GenAI | Career247 | March 2026 | [View Certificate](https://drive.google.com/file/d/1ocjO1p7GAp4SfaA71yxUf5U7x8s1UNWO/view?usp=sharing) |
+🥇 **#1 Top Performer · Career247 · March 2026** — [View Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
 
-> 🥇 **#1 Top Performer · Career247 · March 2026**
->
-> Ranked first in the Data Analytics with GenAI batch at Career247. [View Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
+📜 **Data Analytics with GenAI · Career247 · March 2026** — [View Certificate](https://drive.google.com/file/d/1ocjO1p7GAp4SfaA71yxUf5U7x8s1UNWO/view?usp=sharing)
 
 ---
 
@@ -82,7 +80,7 @@ Build a complete analytics pipeline from raw CSV to final dashboard, covering da
 Built a modular `src/` pipeline with transformation logic kept separate from the analysis notebooks, so the processed dataset can be rebuilt with a single command. Computed two custom features: Customer Lifetime Value (CLV) and Category Breadth using Pandas and NumPy. Applied Welch's T-Test to test gender-based spending differences and One-Way ANOVA to check whether city category and age group significantly affect revenue. Loaded the results into MySQL and built a multi-page Power BI dashboard with separate views for executive and marketing teams.
 
 **Result**
-Found that the highest-spending segment is Male, age 26-35, City B, 1-2 year resident. Confirmed that marital status has no statistically significant effect on spending, which means budget targeting that variable was being wasted. The pipeline is fully reusable: one command rebuilds the entire processed dataset from raw CSV.
+The analysis identified a clear Power Consumer profile (Male, age 26-35, City B, 1-2 year resident) and proved that marital status has no statistically significant effect on spending. That second finding has a direct budget implication: any targeting spend against marital status was wasted, and can be reallocated. The pipeline is fully reusable: one command rebuilds the entire processed dataset from raw CSV.
 
 **Pipeline Architecture**
 ```
@@ -115,14 +113,14 @@ df = df.merge(category_breadth, on='User_ID', how='left')
 **Key Findings**
 - 🎯 Male, 26-35, City B = highest individual revenue segment
 - 🏙️ City B leads total sales volume across all city categories
-- 🚫 Marital status: statistically insignificant, remove from targeting models
+- 🚫 Marital status: statistically insignificant — remove from targeting models, reallocate that budget
 - 📈 Residents of 1-2 years show the highest per-transaction spend
 
 ---
 
 ### 02 · Retail Sales & Customer Analytics Database System
 
-> 🗃️ **A business that takes too long to answer basic questions about its top customers has a data structure problem. This project started with no schema and no existing model.**
+> 🗃️ **$6.96M in revenue, 400 orders, and no database. Every question about top customers or stock levels required manual spreadsheet work. This project fixed that.**
 >
 > The goal was to build a normalized relational database, write queries that answer real business questions, and output clean datasets that feed directly into BI tools.
 
@@ -140,7 +138,7 @@ Design a normalized relational schema with data integrity constraints, populate 
 Built a 3-table normalized schema (`Customers`, `Products`, `Sales`) with primary and foreign key relationships and `NOT NULL` / `CHECK` constraints to reject bad data at entry. Wrote analytical queries using `INNER`, `LEFT`, and `RIGHT` joins, `GROUP BY` aggregations, CTEs, and subqueries. Set up automated low-stock alerts across 5 product categories covering 5,102 total stock units.
 
 **Result**
-Built a queryable system with an average order value of $17,402. Top customers by spend, monthly revenue trends, order status, and best-performing categories can now be answered in seconds. The schema connects directly to Power BI without any additional transformation.
+Top customers by spend, monthly revenue trends, order status, and best-performing categories can now be answered in seconds instead of hours of manual work. Average order value came in at $17,402. The schema connects directly to Power BI without any additional transformation, making it a ready feed for executive dashboards.
 
 **Proof of Work - SQL: Top Customers + Inventory Alert**
 ```sql
@@ -200,7 +198,7 @@ Build a complete, installable web app with no frameworks, no build tools, and no
 Built a ~3,100-line single-file app (`index.html`) using CSS custom properties and ES2020 modules. Connected Firebase Auth for Google sign-in and Cloud Firestore with `onSnapshot` listeners and 120ms debounced rendering to handle batch import bursts. Wrote a custom Canvas 2D trend chart with no charting library, including crosshair hover, gradient fill, and ARIA screen-reader labels. Added SheetJS for Excel/CSV import with auto column mapping, row validation, duplicate detection, and 450-op batch writes. Included a Service Worker and IndexedDB persistence for offline use.
 
 **Result**
-The app is live, installable as a PWA, and works fully offline. It includes real-time sync across devices, Excel import and export, a multi-view analytics dashboard covering net balance, category breakdown, monthly comparisons, and yearly overview with sparklines. Touch users get swipe-to-edit and swipe-to-delete. Undo on delete stays active for 5 seconds. Built across 56 commits.
+The app is live, installable as a PWA, and works fully offline. It includes real-time sync across devices, Excel import and export, and a multi-view analytics dashboard covering net balance, category breakdown, monthly comparisons, and yearly overview with sparklines. Touch users get swipe-to-edit and swipe-to-delete. Undo on delete stays active for 5 seconds. Built across 56 commits.
 
 **Firestore Data Model**
 ```
@@ -245,7 +243,7 @@ Analyze student social media behavior data to find patterns in addiction risk by
 Checked dataset for nulls, duplicates, and schema issues. Ran grouped EDA using Matplotlib and Seaborn covering addiction score distributions by gender, daily usage by age group, platform preferences, and sleep/conflict cross-analysis. Built rule-based Python logic to assign risk tiers and generate digital detox suggestions per student profile. Built a Jupyter report and a 5-view Power BI dashboard covering demographics, usage patterns, conflict analysis, platform comparison, and academic impact.
 
 **Result**
-Found that female students have slightly higher average addiction scores than male peers, that ages 19-20 show the highest daily usage, and that high school students score highest across all academic levels. Dashboard analysis confirmed that higher conflict rates align with lower sleep and weaker academic performance. The output gives program designers a ranked list of which groups to target first, based on data rather than assumption.
+The output gives program designers a ranked list of which groups to target first, based on data rather than assumption. High school students, ages 19-20, and female students came out as the highest-risk segments. Dashboard analysis confirmed that higher conflict rates align directly with lower sleep and weaker academic performance, giving intervention teams a clear signal of where to focus limited resources.
 
 **Key Findings**
 - 👩‍🎓 High school students = highest addiction score across all academic levels
@@ -257,7 +255,7 @@ Found that female students have slightly higher average addiction scores than ma
 
 ### 05 · Coffee Retail Sales & Customer Analytics
 
-> ☕ **Knowing Latte is your top product is a starting point. Knowing it peaks at 18:00, that 95.66% of customers pay by card, and that 545 are repeat buyers - that is the basis for a staffing decision, an infrastructure investment, and a loyalty program.**
+> ☕ **Knowing Latte is your top product is a starting point. Knowing it peaks at 18:00, that 95.66% of customers pay by card, and that 545 are repeat buyers — that is the basis for a staffing decision, an infrastructure investment, and a loyalty program.**
 
 **Stack:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter`
 
@@ -273,13 +271,13 @@ Merge and clean two source datasets, then analyze four areas: product revenue, p
 Merged 2 raw datasets into 3,898 clean transactions using Pandas. Ran product-level revenue ranking, hourly frequency analysis to find peak windows, payment mode breakdown, repeat customer identification by card usage, and cross-month trend analysis.
 
 **Result**
-Latte came out as the top revenue product at $28,658 across 806 purchases. The busiest hour is 18:00 with 113 transactions. 545 customers appeared more than once based on card usage. Card payments account for 95.66% of all transactions. Each of these points connects directly to a staffing, stocking, or program design decision.
+Every finding here maps to an operational decision. Latte at $28,658 across 806 purchases tells you what to protect in your inventory. Peak hour at 18:00 with 113 transactions tells you when to schedule your best staff. 95.66% card usage makes the case for contactless payment infrastructure. And 545 identified repeat customers is a ready base for a loyalty program that doesn't need to be built from scratch.
 
 **Key Findings**
-- ☕ Latte: $28,658 revenue across 806 purchases, top priority for stock and upsell
-- 🕕 Peak hour: 18:00 (113 transactions), schedule staffing and restocking around this
+- ☕ Latte: $28,658 revenue across 806 purchases — top priority for stock and upsell
+- 🕕 Peak hour: 18:00 (113 transactions) — schedule staffing and restocking around this
 - 💳 95.66% card payment rate supports the case for contactless infrastructure
-- 🔄 545 repeat customers identified by card, ready base for a loyalty program
+- 🔄 545 repeat customers identified by card — ready base for a loyalty program
 
 ---
 
@@ -338,10 +336,10 @@ The app is live at `https://dipjyoti-karmakar.github.io/dossier.ai` and works on
 ## 💼 Work Experience
 
 ### DatNex · Lead Generation Associate
-*December 2025 – Present*
+*December 2025 – March 2026*
 
-- Built and maintained B2B prospect lists for 500+ IT and SaaS companies using `Apollo.io`, `LinkedIn Sales Navigator`, and `Excel`. Targeted senior decision-makers including CMOs, VP Demand Gen, and Marketing Directors, segmented by industry, region, and tech stack to match each client's ICP.
-- Ran personalized outbound campaigns through `Outlook` and `Instantly.ai` with technographic references (RPA tools: UiPath, Automation Anywhere), leading to qualified meeting bookings for the sales pipeline.
+- Built and maintained B2B prospect lists for 500+ IT and SaaS companies using `Apollo.io`, `LinkedIn Sales Navigator`, and `Excel`. Cleaned and enriched contact data to ensure accuracy before outreach, segmenting decision-makers (CMOs, VP Demand Gen, Marketing Directors) by industry, region, and tech stack to match each client's ICP.
+- Ran personalized outbound campaigns through `Outlook` and `Instantly.ai` with technographic references (RPA tools: UiPath, Automation Anywhere), tracking engagement and qualified meeting bookings to measure campaign effectiveness against pipeline targets.
 
 ---
 
