@@ -50,9 +50,9 @@
 
 ## 🏆 Certifications & Achievements
 
-🥇 **#1 Top Performer · Career247 · March 2026** — [View Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
+🥇 **#1 Top Performer · Career247 · March 2026** - [View Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
 
-📜 **Data Analytics with GenAI · Career247 · March 2026** — [View Certificate](https://drive.google.com/file/d/1ocjO1p7GAp4SfaA71yxUf5U7x8s1UNWO/view?usp=sharing)
+📜 **Data Analytics with GenAI · Career247 · March 2026** - [View Certificate](https://drive.google.com/file/d/1ocjO1p7GAp4SfaA71yxUf5U7x8s1UNWO/view?usp=sharing)
 
 ---
 
@@ -113,7 +113,7 @@ df = df.merge(category_breadth, on='User_ID', how='left')
 **Key Findings**
 - 🎯 Male, 26-35, City B = highest individual revenue segment
 - 🏙️ City B leads total sales volume across all city categories
-- 🚫 Marital status: statistically insignificant — remove from targeting models, reallocate that budget
+- 🚫 Marital status: statistically insignificant - remove from targeting models, reallocate that budget
 - 📈 Residents of 1-2 years show the highest per-transaction spend
 
 ---
@@ -255,7 +255,7 @@ The output gives program designers a ranked list of which groups to target first
 
 ### 05 · Coffee Retail Sales & Customer Analytics
 
-> ☕ **Knowing Latte is your top product is a starting point. Knowing it peaks at 18:00, that 95.66% of customers pay by card, and that 545 are repeat buyers — that is the basis for a staffing decision, an infrastructure investment, and a loyalty program.**
+> ☕ **Knowing Latte is your top product is a starting point. Knowing it peaks at 18:00, that 95.66% of customers pay by card, and that 545 are repeat buyers - that is the basis for a staffing decision, an infrastructure investment, and a loyalty program.**
 
 **Stack:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter`
 
@@ -274,10 +274,10 @@ Merged 2 raw datasets into 3,898 clean transactions using Pandas. Ran product-le
 Every finding here maps to an operational decision. Latte at $28,658 across 806 purchases tells you what to protect in your inventory. Peak hour at 18:00 with 113 transactions tells you when to schedule your best staff. 95.66% card usage makes the case for contactless payment infrastructure. And 545 identified repeat customers is a ready base for a loyalty program that doesn't need to be built from scratch.
 
 **Key Findings**
-- ☕ Latte: $28,658 revenue across 806 purchases — top priority for stock and upsell
-- 🕕 Peak hour: 18:00 (113 transactions) — schedule staffing and restocking around this
+- ☕ Latte: $28,658 revenue across 806 purchases - top priority for stock and upsell
+- 🕕 Peak hour: 18:00 (113 transactions) - schedule staffing and restocking around this
 - 💳 95.66% card payment rate supports the case for contactless infrastructure
-- 🔄 545 repeat customers identified by card — ready base for a loyalty program
+- 🔄 545 repeat customers identified by card - ready base for a loyalty program
 
 ---
 
