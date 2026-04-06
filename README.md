@@ -22,7 +22,7 @@
 | Batch ranking - Career247 Data Analytics with GenAI | **#1 Top Performer** |
 | Repeat customers identified (coffee analytics) | 545 |
 | Flux app commits shipped | 56 |
-| Single-file web apps built | 2 (Flux · Dossier) |
+| Single-file web apps built | 2 (Flux · Dossier.ai) |
 | Chart.js visualizations in Dossier.ai | 5 live charts |
 | SQL records managed (retail DB) | 400 orders · 50 products · 30 customers |
 | Stock units under automated inventory alert | 5,102 units across 5 categories |
