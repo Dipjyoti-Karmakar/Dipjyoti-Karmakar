@@ -81,7 +81,7 @@ I build end-to-end analytics solutions - from normalized SQL schemas and Python 
 | Metric | Achievement |
 | :--- | :--- |
 | **Largest dataset analyzed** | 550,068 transactions |
-| **Total revenue modeled** | $11.96B+ across 6 projects |
+| **Total revenue modeled** | $5.01B+ across 6 projects |
 | **Batch ranking - Career247** | #1 Top Performer |
 | **Flux app commits** | 56 |
 | **Repeat customers identified** | 545 |
