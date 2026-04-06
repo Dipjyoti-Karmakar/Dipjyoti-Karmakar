@@ -17,7 +17,7 @@
 |---|---|
 | Largest dataset analyzed | 550,068 transactions |
 | Total revenue modeled across projects | $11.96B+ |
-| Batch ranking — Career247 Data Analytics with GenAI | **#1 Top Performer** |
+| Batch ranking - Career247 Data Analytics with GenAI | **#1 Top Performer** |
 | Repeat customers identified (coffee analytics) | 545 |
 | Flux app commits shipped | 56 |
 | Single-file web apps built | 2 (Flux · Dossier.ai) |
@@ -92,18 +92,18 @@ Feature Engineering + Cleaning (src/data_processing.py)
       ↓
 Processed Master Dataset (data/processed/)
       ↓
-Statistical Testing — SciPy (Welch's T-Test · One-Way ANOVA)
+Statistical Testing - SciPy (Welch's T-Test · One-Way ANOVA)
       ↓
 Multi-page Power BI KPI Dashboard (Executive + Marketing views)
 ```
 
-**Proof of Work — Python: CLV & Category Breadth**
+**Proof of Work - Python: CLV & Category Breadth**
 ```python
-# Customer Lifetime Value — total spend per customer
+# Customer Lifetime Value - total spend per customer
 clv = df.groupby('User_ID')['Purchase'].sum().reset_index()
 clv.columns = ['User_ID', 'CLV']
 
-# Category Breadth — unique product categories per customer
+# Category Breadth - unique product categories per customer
 category_breadth = df.groupby('User_ID')['Product_Category_1'].nunique().reset_index()
 category_breadth.columns = ['User_ID', 'Category_Breadth']
 
@@ -142,7 +142,7 @@ Built a 3-table normalized schema (`Customers`, `Products`, `Sales`) with primar
 **Result**
 Built a queryable system with an average order value of $17,402. Top customers by spend, monthly revenue trends, order status, and best-performing categories can now be answered in seconds. The schema connects directly to Power BI without any additional transformation.
 
-**Proof of Work — SQL: Top Customers + Inventory Alert**
+**Proof of Work - SQL: Top Customers + Inventory Alert**
 ```sql
 -- Top 5 customers by total spend
 WITH CustomerRevenue AS (
@@ -180,7 +180,7 @@ ORDER BY Stock_Level ASC;
 
 ---
 
-### 03 · Flux — Personal Finance Web App
+### 03 · Flux - Personal Finance Web App
 
 > 💸 **Most personal finance apps require a backend, a framework, and a build process. Flux has none of those.**
 >
@@ -188,7 +188,7 @@ ORDER BY Stock_Level ASC;
 
 **Stack:** `HTML5` · `CSS3` · `Vanilla JavaScript (ES2020)` · `Firebase Auth` · `Cloud Firestore` · `SheetJS` · `PWA` · `Service Worker`
 
-🔗 [View Repository](https://github.com/Dipjyoti-Karmakar/flux-personal-finance-dashboard)
+🔗 [View Repository](https://github.com/Dipjyoti-Karmakar/flux-personal-finance-dashboard) · 🌐 [Live Demo](https://dipjyoti-karmakar.github.io/flux-personal-finance-dashboard)
 
 **Situation**
 Most personal finance tools are either too basic to be useful or require too much setup to be practical. The goal was a tracker that works across devices, has real analytics built in, and works offline.
@@ -257,7 +257,7 @@ Found that female students have slightly higher average addiction scores than ma
 
 ### 05 · Coffee Retail Sales & Customer Analytics
 
-> ☕ **Knowing Latte is your top product is a starting point. Knowing it peaks at 18:00, that 95.66% of customers pay by card, and that 545 are repeat buyers — that is the basis for a staffing decision, an infrastructure investment, and a loyalty program.**
+> ☕ **Knowing Latte is your top product is a starting point. Knowing it peaks at 18:00, that 95.66% of customers pay by card, and that 545 are repeat buyers - that is the basis for a staffing decision, an infrastructure investment, and a loyalty program.**
 
 **Stack:** `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter`
 
@@ -283,7 +283,7 @@ Latte came out as the top revenue product at $28,658 across 806 purchases. The b
 
 ---
 
-### 06 · Dossier.ai — GitHub Profile Intelligence Dashboard
+### 06 · Dossier.ai - GitHub Profile Intelligence Dashboard
 
 > 🤖 **Paste any GitHub username and the app generates a full developer report: tech stack inference, career suggestions, a 90-day activity heatmap, and a side-by-side comparison with any other GitHub user.**
 >
