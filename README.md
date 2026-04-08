@@ -1,110 +1,95 @@
 <div align="center">
 
-# Hi, I'm Dipjyoti 👋
+# Dipjyoti Karmakar
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Analyst;BI+Developer" alt="Typing Effect Job Titles" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=378ADD&center=true&vCenter=true&width=480&lines=Data+Analyst;Business+Analyst;BI+Developer" alt="Typing SVG" /></a>
 
-📍 Assam, India 
+📍 Assam, India &nbsp;·&nbsp; 🎓 MBA @ Bodoland University *(Aug 2027)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipjyoti-karmakar-dk/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dipjyoti-Karmakar&color=0A66C2&style=flat&label=Profile+Views)](https://github.com/Dipjyoti-Karmakar)
-[![Dossier.ai](https://img.shields.io/badge/Dossier.ai-Live_App-1D9E75?style=flat&logo=github&logoColor=white)](https://dipjyoti-karmakar.github.io/dossier.ai)
-[![Flux](https://img.shields.io/badge/Flux_Finance-Live_App-378ADD?style=flat&logo=github&logoColor=white)](https://dipjyoti-karmakar.github.io/flux-personal-finance-dashboard)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dipjyotikarmakar97@gmail.com)
+[![Dossier.ai](https://img.shields.io/badge/Dossier.ai-Live-1D9E75?style=flat&logo=github&logoColor=white)](https://dipjyoti-karmakar.github.io/dossier.ai)
+[![Flux](https://img.shields.io/badge/Flux_Finance-Live-378ADD?style=flat&logo=github&logoColor=white)](https://dipjyoti-karmakar.github.io/flux-personal-finance-dashboard)
 [![Top Performer](https://img.shields.io/badge/Career247-%231_Top_Performer-FFD700?style=flat&logo=star&logoColor=black)](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Dipjyoti_Karmakar_Portfolio-3395d98f35ae802c9d62eea3288206da)
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipjyoti-Karmakar&theme=github-dark&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipjyoti-Karmakar&theme=github-dark&hide_border=true" height="160" alt="GitHub Streak" />
 
 </div>
 
-<br>
+---
 
-## 🚀 What I Do
-I build end-to-end analytics solutions - from normalized SQL schemas and Python pipelines to live web apps. Every finding I deliver connects directly to a business decision.
+I work with data the way a detective works a case: start with the numbers, follow what they say, and land on a decision someone can actually use.
 
-> `Raw Data` → `Python / SQL` → `Statistical Testing` → `Power BI Dashboard` → `Decision`
+My projects cover retail transactions, student behavior, and personal finance. Each one goes the full distance: SQL schema design, Python analysis, statistical testing, BI reporting, and a clear takeaway. I do not stop at the chart.
+
+> *"Every finding should connect to a business decision someone has to make."*
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Stack
 
-**Languages & Data** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Databases** <br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**BI & Visualization** <br>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**Web & APIs** <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Tools** <br>
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+| Layer | Tools |
+| :--- | :--- |
+| **Analysis** | Python · Pandas · NumPy · SciPy · scikit-learn · R |
+| **Databases** | MySQL · PostgreSQL · CTEs · Window Functions |
+| **BI & Visualization** | Power BI · Tableau · Matplotlib · Seaborn · Chart.js |
+| **Web & APIs** | JavaScript · HTML · CSS · Gemini API · GitHub API · Firebase |
+| **Workflow** | Excel · Jupyter · Git |
 
 ---
 
 ## 📊 Projects
 
-| 📁 Project | 💻 Stack | 📈 Scale / Impact |
+| Project | Stack | What I Found |
 | :--- | :--- | :--- |
-| [**🛒 Black Friday Sales Analysis**](https://github.com/Dipjyoti-Karmakar/black-friday-sales-analysis) | Python · SciPy · MySQL · Power BI | 550,068 transactions · $5B+ revenue |
-| [**🗃️ Retail Sales & Customer DB**](https://github.com/Dipjyoti-Karmakar/retail-sales-sql-analytics) | MySQL · PostgreSQL · CTEs | 400 orders · $6.96M revenue |
-| [**☕ Coffee Retail Analytics**](https://github.com/Dipjyoti-Karmakar/coffee-sales-business-analytics) | Python · Pandas · Seaborn | 3,898 transactions · 545 repeat customers |
-| [**📱 Social Media Addiction Analysis**](https://github.com/Dipjyoti-Karmakar/social-media-addiction-analysis) | Python · Power BI · Rule-based classifier | Student wellness risk segmentation |
-| [**💸 Flux - Finance Dashboard**](https://github.com/Dipjyoti-Karmakar/flux-personal-finance-dashboard) | Vanilla JS · Firebase · PWA | Single-file app · 56 commits · [Live →](https://dipjyoti-karmakar.github.io/flux-personal-finance-dashboard) |
-| [**🤖 Dossier.ai - GitHub Intelligence**](https://github.com/Dipjyoti-Karmakar/dossier.ai) | Gemini API · GitHub API · Chart.js | AI-powered dev profile analyzer · [Live →](https://dipjyoti-karmakar.github.io/dossier.ai) |
+| [**🛒 Black Friday Sales Analysis**](https://github.com/Dipjyoti-Karmakar/black-friday-sales-analysis) | Python · SciPy · MySQL · Power BI | 550K+ transactions · Males aged 26-35 confirmed as primary high-value segment (95% CI on mean spend difference) · 1-2 year residents drive bulk of sales volume · top 50 product IDs account for a disproportionate share of total transactions ("Anchor Products") · users segmented by CLV, Category Breadth, and Loyalty Index |
+| [**🗃️ Retail Sales & Customer DB**](https://github.com/Dipjyoti-Karmakar/retail-sales-sql-analytics) | MySQL · PostgreSQL · CTEs | Designed a normalized schema from scratch and built CTE-based RFM segmentation across 400 orders worth $6.96M |
+| [**☕ Coffee Retail Analytics**](https://github.com/Dipjyoti-Karmakar/coffee-sales-business-analytics) | Python · Pandas · Seaborn | Found 545 repeat buyers across 3,898 transactions; identified peak-hour gaps and product mix opportunities |
+| [**📱 Social Media Addiction Analysis**](https://github.com/Dipjyoti-Karmakar/social-media-addiction-analysis) | Python · Power BI | Built a rule-based risk classifier to segment students by addiction severity; output formatted for counselor review |
+| [**💸 Flux — Personal Finance Dashboard**](https://github.com/Dipjyoti-Karmakar/flux-personal-finance-dashboard) | Vanilla JS · Firebase · PWA | Offline-capable budget tracker built as a single-file PWA with real-time Firebase sync · [Live App →](https://dipjyoti-karmakar.github.io/flux-personal-finance-dashboard) |
+| [**🤖 Dossier.ai**](https://github.com/Dipjyoti-Karmakar/dossier.ai) | Gemini API · GitHub API · Chart.js | Paste any GitHub username, get a structured developer profile report generated by Gemini · [Live App →](https://dipjyoti-karmakar.github.io/dossier.ai) |
 
 ---
 
-## 📈 By the Numbers
+## 📈 Numbers
 
-| Metric | Achievement |
-| :--- | :--- |
-| **Largest dataset analyzed** | 550,068 transactions |
-| **Total revenue modeled** | $5.01B+ across 6 projects |
-| **Batch ranking - Career247** | #1 Top Performer |
-| **Flux app commits** | 56 |
-| **Repeat customers identified** | 545 |
+| | |
+| :--- | ---: |
+| Transactions analyzed | **550,068** |
+| Revenue modeled across projects | **$5.01B+** |
+| Repeat customers identified | **545** |
+| Career247 batch rank, March 2026 | **#1 of batch** |
 
 ---
 
-## ⚡ Currently
+## 💼 Work Experience
 
-* 🎓 MBA @ Bodoland University *(Expected Aug 2027)*
-* 🔍 Open to **Data Analyst**, **Business Analyst**, and **BI Developer** roles
-* 🛠️ Building analytics projects across retail, wellness, and finance domains
+**Lead Generation Associate** · DatNex · *Dec 2025 – Present*  
+Prospecting and pipeline work using data-driven targeting. Role sits at the intersection of sales ops and analysis.
+
+---
+
+## 🎓 Education & Certifications
+
+- **MBA** · Bodoland University · *Expected Aug 2027*
+- **B.Com** · *Jun 2025*
+- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate](https://drive.google.com/file/d/1ocjO1p7GAp4SfaA71yxUf5U7x8s1UNWO/view) · **#1 Top Performer** · [Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
+
+---
+
+## ⚡ Right Now
+
+- Open to **Data Analyst**, **Business Analyst**, and **BI Developer** roles
+- Working on projects across retail, wellness, and personal finance
+- Based in Assam, India · Open to remote
 
 ---
 
 <div align="center">
-  
-### 📫 Let's Connect!
-*"Every finding should connect to a business decision someone has to make."* <br><br>
-<a href="mailto:dipjyotikarmakar97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dipjyotikarmakar97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/dipjyoti-karmakar-dk/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipjyoti-karmakar-dk/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipjyotikarmakar97@gmail.com)
 
 </div>
