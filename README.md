@@ -74,7 +74,7 @@ Prospecting and pipeline work using data-driven targeting. Role sits at the inte
 
 - **MBA** · Bodoland University · *Expected Aug 2027*
 - **B.Com** · *Jun 2025*
-- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate]([https://drive.google.com/file/d/1ocjO1p7GAp4SfaA71yxUf5U7x8s1UNWO/view](https://career247.edmingle.com/verify/C2472558)) · **#1 Top Performer** · [Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
+- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate]((https://career247.edmingle.com/verify/C2472558)) · **#1 Top Performer** · [Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
 
 ---
 
