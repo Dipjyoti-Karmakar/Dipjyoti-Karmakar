@@ -65,7 +65,7 @@ My projects cover retail transactions, student behavior, and personal finance. E
 ## 💼 Work Experience
 
 **Lead Generation Associate** · DatNex · *Dec 2025 – Present*  
-Prospecting and pipeline work using data-driven targeting. Role sits at the intersection of sales ops and analysis.
+Prospecting and pipeline work using data-driven targeting. The role sits at the intersection of sales ops and analysis.
 
 ---
 
@@ -73,7 +73,7 @@ Prospecting and pipeline work using data-driven targeting. Role sits at the inte
 
 - **MBA** · Bodoland University · *Expected Aug 2027*
 - **B.Com** · *Jun 2025*
-- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate]([https://career247.edmingle.com/verify/C2472558](https://career247.edmingle.com/verify/C2472558))
+- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate](https://career247.edmingle.com/verify/C2472558)
 
 ---
 
