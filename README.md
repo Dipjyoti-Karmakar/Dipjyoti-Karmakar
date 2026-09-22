@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dipjyotikarmakar97@gmail.com)
 [![Dossier.ai](https://img.shields.io/badge/Dossier.ai-Live-1D9E75?style=flat&logo=github&logoColor=white)](https://dipjyoti-karmakar.github.io/dossier.ai)
 [![Flux](https://img.shields.io/badge/Flux_Finance-Live-378ADD?style=flat&logo=github&logoColor=white)](https://dipjyoti-karmakar.github.io/flux-personal-finance-dashboard)
-[![Top Performer](https://img.shields.io/badge/Career247-%231_Top_Performer-FFD700?style=flat&logo=star&logoColor=black)](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Dipjyoti_Karmakar_Portfolio-3395d98f35ae802c9d62eea3288206da)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipjyoti-Karmakar&theme=github-dark&hide_border=true" height="160" alt="GitHub Streak" />
@@ -74,7 +73,7 @@ Prospecting and pipeline work using data-driven targeting. Role sits at the inte
 
 - **MBA** · Bodoland University · *Expected Aug 2027*
 - **B.Com** · *Jun 2025*
-- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate](https://career247.edmingle.com/verify/C2472558) · **#1 Top Performer** · [Proof](https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
+- **Data Analytics with GenAI** · Career247 · *Mar 2026* · [Certificate](https://career247.edmingle.com/verify/C2472558) ·(https://drive.google.com/file/d/11_z6inyomCbX-C26laU1CM3oadTsY9wP/view?usp=sharing)
 
 ---
 
